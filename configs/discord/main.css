@@ -2,7 +2,7 @@
 
 /* Colors setup */
 * {
-    --custom-logo: url(https://strogor.github.io/configs/discord/dandadan-icon.png) !important;
+    --custom-logo: url(https://strogor.github.io/configs/discord/dandadan_icon.svg) !important;
 
     --font-primary: var(--font), sans-serif !important;
 
