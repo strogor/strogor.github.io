@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 
 <svg
+   aria-label="Steam"
+   role="img"
+   viewBox="0 0 512 512"
+   fill="#ffffff"
    version="1.1"
-   id="svg1413"
-   width="235.52"
-   height="235.52"
-   viewBox="0 0 235.52 235.52"
-   sodipodi:docname="dandadanicon.svg"
+   id="svg14"
+   sodipodi:docname="dandadan_icon.svg"
+   xml:space="preserve"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1417" />
-  <sodipodi:namedview
-     id="namedview1415"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs18" /><sodipodi:namedview
+     id="namedview16"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -26,24 +26,19 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="3.5028872"
-     inkscape:cx="117.76"
-     inkscape:cy="117.76"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="1920"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1419" />
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
-     id="g1419">
-    <image
-       width="235.52"
-       height="235.52"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAuAAAALgCAYAAADV3sIJAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
+     inkscape:zoom="1.198767"
+     inkscape:cx="109.27895"
+     inkscape:cy="252.34262"
+     inkscape:window-width="1884"
+     inkscape:window-height="995"
+     inkscape:window-x="1930"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" /><image
+     width="512"
+     height="512"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAuAAAALgCAYAAADV3sIJAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
 AdnJLH8AAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAlwSFlz
 AAAuIwAALiMBeKU/dgAAAAd0SU1FB+kIGg03CRNIlxMAACAASURBVHja7J15fFTV+f8/M3OX2ZOQ
 DUKIgFAwgoCgqKCo1F0qWq22Ll8REK2CoiIKyKJQBPd9qV+12lrrV23rr26ACMgWdhQDAbOQkD2T
@@ -5964,6 +5959,6 @@ NnjsazQu/BvNsssZdwsuah/0C9++fTOtBe8VCoU0NjamUChkdQ3X7OvXr1paWrIaifdOJpP2s8lk
 UsfHx3aP0PEkEglrCLiXFP5o3lzXNz67W7C7U/x/iu7/Hwj92UX4vwCTAKVUGLRbMQAAAABJRU5E
 rkJggg==
 "
-       id="image1421" />
-  </g>
-</svg>
+     id="image255"
+     x="2.8421709e-14"
+     y="0" /></svg>
